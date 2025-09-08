@@ -103,7 +103,7 @@ plt.savefig('segment_sales.png', dpi=300)</code></pre>
   </div>
 
   <footer style="margin-top:28px; font-size:0.95em; color:#444;">
-    <p>Created by Shreeya • Repo: <strong>festive-vehicle-sales-india</strong></p>
+    <p>Created by Shreeya</p>
   </footer>
 
 </body>
